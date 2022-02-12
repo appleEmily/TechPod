@@ -11,6 +11,8 @@ import UIKit
 class AppDelegate: UIResponder, UIApplicationDelegate {
 
 
+    
+    //バックグラウンド再生するためのコードを書いていきます
 
     func application(_ application: UIApplication, didFinishLaunchingWithOptions launchOptions: [UIApplication.LaunchOptionsKey: Any]?) -> Bool {
         // Override point for customization after application launch.
